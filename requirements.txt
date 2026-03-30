@@ -11,6 +11,8 @@ huggingface_hub<1.0
 dill
 surya-ocr
 transformers
+bitsandbytes
+accelerate
 einops
 pydantic
 pydantic-settings
@@ -22,6 +24,7 @@ timm
 streamlit
 sentence-transformers
 openai-whisper
+faster-whisper
 pyannote.audio==3.3.2
 pandas<3
 pillow<11
